@@ -16,10 +16,3 @@ returns the sop and it the subtasks
 7. Reporting
     1. For each SOP report on who owes what
 8.  Add method to retrieve issue properties (checklits)
-
-
-## Client ID ##
-678766950056-osi707jlte7v3a96dmiajvdjrji72bii.apps.googleusercontent.com
-
-## Cleint Secret ##
-4-xhJJCkEPq04ELLJ61WNI2t
