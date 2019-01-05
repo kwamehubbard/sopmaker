@@ -1,0 +1,27 @@
+2019-01-01 19:51:13,435 - INFO - ******************************  Starting Session  ******************************
+2019-01-01 19:51:13,436 - INFO - Connected to https://solutionsitw.atlassian.net/rest/api/2/issue/
+2019-01-01 19:51:14,710 - INFO - Retrieving SOP subtasks for: DGMS-2323
+2019-01-01 19:51:18,411 - INFO - Number of subtasks returned: 6
+2019-01-01 19:51:19,069 - INFO - Retrieving SOP subtasks for: DGMS-2268
+2019-01-01 19:51:44,401 - INFO - Number of subtasks returned: 40
+2019-01-01 19:51:45,097 - INFO - Retrieving SOP subtasks for: DGMS-2226
+2019-01-01 19:52:12,231 - INFO - Number of subtasks returned: 40
+2019-01-01 19:52:12,913 - INFO - Retrieving SOP subtasks for: DGMS-2184
+2019-01-01 19:52:41,279 - INFO - Number of subtasks returned: 40
+2019-01-01 19:52:41,918 - INFO - Retrieving SOP subtasks for: DGMS-2133
+2019-01-01 19:53:07,768 - INFO - Number of subtasks returned: 40
+2019-01-01 19:53:08,428 - INFO - Retrieving SOP subtasks for: DGMS-2091
+2019-01-01 19:53:34,868 - INFO - Number of subtasks returned: 40
+2019-01-01 19:53:35,627 - INFO - Retrieving SOP subtasks for: DGMS-2037
+2019-01-01 19:54:01,829 - INFO - Number of subtasks returned: 40
+2019-01-01 19:54:01,829 - INFO - Retrieving SOP subtasks for: DGMS-1994
+2019-01-01 19:54:24,668 - INFO - Number of subtasks returned: 35
+2019-01-01 19:54:24,669 - INFO - Retrieving SOP subtasks for: DGMS-1991
+2019-01-01 19:54:25,260 - INFO - Number of subtasks returned: 1
+2019-01-01 19:54:25,938 - INFO - Retrieving SOP subtasks for: DGMS-1942
+2019-01-01 19:54:48,240 - INFO - Number of subtasks returned: 35
+2019-01-01 19:54:48,240 - INFO - Retrieving SOP subtasks for: DGMS-1849
+2019-01-01 19:55:14,484 - INFO - Number of subtasks returned: 39
+2019-01-01 19:55:14,487 - INFO - Number of SOPs returned: 11
+2019-01-01 19:55:14,488 - INFO - ******************************  Start PDF Creation ******************************
+2019-01-01 20:03:50,727 - INFO - ******************************  Session Complete  ******************************
